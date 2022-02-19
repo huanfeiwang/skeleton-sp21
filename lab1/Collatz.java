@@ -24,18 +24,3 @@ public class Collatz {
         System.out.println(n);
     }
 }
-
-  /*if (n  == 128) {
-            return 1;
-        } else if (n == 5) {
-            return 3 * n + 1;
-        } else {
-            return n * 2;
-        }*/
-/* int n = 5;
-        System.out.print(n + " ");
-        while (n != 1) {
-            n = nextNumber(n);
-            System.out.print(n + " ");
-        }
-        System.out.println();*/
